@@ -1,6 +1,6 @@
 # tk
 Adding students to db and fid student from students / simple version
 
-Installation
+Installation:
 
-pyinstaller -w --add-data "db.sqlite3;." searching_students.py main.py --onefile
+pyinstaller -w --add-data "db.sqlite3;." searching_students.py adding_students.py --onefile
