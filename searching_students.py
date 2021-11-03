@@ -36,10 +36,6 @@ def executer(txt):
             e = tk.Label(frame,text=i[n]).grid(row=j,column=n,padx=4)
         j = j + 1
 
-        '''f_name = tk.Label(frame,text=i[1]).grid(row=8,column=3)
-        l_name = tk.Label(frame,text=i[2]).grid(row=9,column=3)
-        status = tk.Label(frame,text=i[3]).grid(row=10,column=3)
-        age = tk.Label(frame,text=i[4]).grid(row=11,column=3)'''
 
     conn.commit()
 
