@@ -1,5 +1,5 @@
 # tk
-Adding students to db and fid student from students / simple version
+Adding students to db and find student from students / simple version
 
 Installation:
 
